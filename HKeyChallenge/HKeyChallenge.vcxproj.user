@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>-c D:\1.seq D:\cert\d9d6f7f20eceb02449345d06642cd6ab.hcert D:\1.hng</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <MpiDebuggerApplicationArguments>-c D:\1.seq D:\cert\28459b921b142d22e5756a33df287115.hcert D:\response\56e786125885784b6128f042dbe2ea0f.resp</MpiDebuggerApplicationArguments>
+  </PropertyGroup>
+</Project>
